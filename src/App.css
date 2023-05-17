@@ -1,0 +1,16 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+
+.leaflet-popup-close-button {
+    scale: 4.0;
+    right: -475px !important;
+    top: -170px !important;
+    color: aliceblue !important;
+}
+
+.leaflet-popup-tip {
+    display: none !important;
+}
