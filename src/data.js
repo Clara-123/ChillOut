@@ -254,6 +254,28 @@ const data = [
         name: 'ChillOut Assuit',
         image: '/images/Locations/Others/assuit.png'
     },
+    
+
+        {
+        position: [30.848887, 28.917739],
+        name: 'ChillOut El Alamein Towers',
+        image: '/images/Locations/El Alamein/ChillOut El alamein towers.jpeg'
+    },
+    {
+        position: [30.870188, 28.879510],
+        name: 'ChillOut El Alamein',
+        image: '/images/Locations/El Alamein/chillout el Alamein.jpeg'
+    },
+    {
+        position: [30.149263, 31.418759],
+        name: 'ChillOut El Salam 1',
+        image: '/images/Locations/El Salam/chillout El Salam.jpeg'
+    },
+    {
+        position: [30.148466, 31.417821],
+        name: 'ChillOut El Salam 2',
+        image: '/images/Locations/El Salam/chillout El Salam.jpeg'
+    },
 ]
 
 export { data };
